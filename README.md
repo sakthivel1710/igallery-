@@ -143,8 +143,6 @@ prevBtn.addEventListener("click", () => {
 
 ## OUTPUT:
 
-![alt text](<Screenshot (63).png>)
-
 ![alt text](<Screenshot (64).png>)
 
 ![alt text](<Screenshot (65).png>)
